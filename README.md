@@ -1,6 +1,8 @@
 # starterTemplate-Social-Login
 a starter template for logging in users with their social account information using the Stamplay SDK
 
+**CLONING: When cloning this repo, you must switch out the appId with your own to make it work.**
+
  1) **Initialize the front-end of your app with Stamplay**
  <br>
 - Go to your command line and enter **stamplay init**
