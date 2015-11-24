@@ -48,3 +48,5 @@ function facebook(){
 	newUser.login('facebook');
 }
 ```
+
+![alt tag](public/images/social-signup-micro-repo.png)
