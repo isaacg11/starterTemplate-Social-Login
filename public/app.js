@@ -1,4 +1,4 @@
-Stamplay.init('sdksocialsignup');
+Stamplay.init('yourAppId');
 
 function facebook(){
 	var newUser = new Stamplay.User().Model;
